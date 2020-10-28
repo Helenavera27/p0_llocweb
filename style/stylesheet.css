@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'AmplitudeComp';
+    src: url('../fonts/AmplitudeComp-Regular.eot');
+    src: url('../fonts/AmplitudeComp-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/AmplitudeComp-Regular.woff2') format('woff2'),
+        url('../fonts/AmplitudeComp-Regular.woff') format('woff'),
+        url('../fonts/AmplitudeComp-Regular.ttf') format('truetype'),
+        url('../fonts/AmplitudeComp-Regular.svg#AmplitudeComp-Regular') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
